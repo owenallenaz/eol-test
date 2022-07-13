@@ -2,7 +2,7 @@
 # More info:
 #		- https://git-scm.com/docs/gitattributes#_checking_out_and_checking_in
 #		- https://git-scm.com/docs/gitattributes#_eol
-* text eol=crlf
+* text=auto eol=crlf
 
 # Denote all files that are truly binary and should not be modified
 *.png binary
